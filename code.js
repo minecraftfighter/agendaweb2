@@ -21,15 +21,24 @@ pl15 = document.getElementById("pl15");
 pl16 = document.getElementById("pl16");
 pl17 = document.getElementById("pl17");
 pl18 = document.getElementById("pl18");
-rl1 = document.getElementById("rl1");
-rl2 = document.getElementById("rl2");
-rl3 = document.getElementById("rl3");
-rl4 = document.getElementById("rl4");
-rl5 = document.getElementById("rl5");
-rl6 = document.getElementById("rl6");
-rl7 = document.getElementById("rl7");
-rl8 = document.getElementById("rl8");
-rl9 = document.getElementById("rl9");
+rl1 = document.getElementById("rl12");
+rl2 = document.getElementById("rl22");
+rl3 = document.getElementById("rl32");
+rl4 = document.getElementById("rl42");
+rl5 = document.getElementById("rl52");
+rl6 = document.getElementById("rl62");
+rl7 = document.getElementById("rl72");
+rl8 = document.getElementById("rl82");
+rl9 = document.getElementById("rl92");
+rl12 = document.getElementById("rl12");
+rl22 = document.getElementById("rl22");
+rl32 = document.getElementById("rl32");
+rl42 = document.getElementById("rl42");
+rl52 = document.getElementById("rl52");
+rl62 = document.getElementById("rl62");
+rl72 = document.getElementById("rl72");
+rl82 = document.getElementById("rl82");
+rl92 = document.getElementById("rl92");
 names = ["asd"]
 passes = ["cica", "kuka", "asd", "Hanna", "Csani"];
 l1 = false;
@@ -120,5 +129,30 @@ function ch2() {
     }
     else {
         nc2 = document.getElementById("nc2").style.visibility = "visible";
+    }
+}
+
+function ch3() {
+    if(rl12.value == "lone lodge") {
+        if(rl22.value == "lone lodge") {
+            if(rl32.value == "lone lodge") {
+                if(rl42.value == "lone lodge") {
+                    if(rl52.value == "lone lodge") {
+                        if(rl62.value == "lone lodge") {
+                            if(rl72.value == "lone lodge") {
+                                if(rl82.value == "lone lodge") {
+                                    if(rl92.value == "lone lodge") {
+                                        c3 = document.getElementById("c3").style.visibility = "visible";
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    else {
+        nc3 = document.getElementById("nc3").style.visibility = "visible";
     }
 }
