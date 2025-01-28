@@ -133,15 +133,15 @@ function ch2() {
 }
 
 function ch3() {
-    if(rl12.value == "lone lodge") {
-        if(rl22.value == "lone lodge") {
-            if(rl32.value == "lone lodge") {
-                if(rl42.value == "lone lodge") {
-                    if(rl52.value == "lone lodge") {
-                        if(rl62.value == "lone lodge") {
-                            if(rl72.value == "lone lodge") {
-                                if(rl82.value == "lone lodge") {
-                                    if(rl92.value == "lone lodge") {
+    if(rl12.value == "snobby sands") {
+        if(rl22.value == "fossil fields") {
+            if(rl32.value == "lizard links") {
+                if(rl42.value == "adobe abodes") {
+                    if(rl52.value == "twisted trailers") {
+                        if(rl62.value == "paradise palms") {
+                            if(rl72.value == "sunburnt shafts") {
+                                if(rl82.value == "shady springs") {
+                                    if(rl92.value == "guaco town") {
                                         c3 = document.getElementById("c3").style.visibility = "visible";
                                     }
                                 }
