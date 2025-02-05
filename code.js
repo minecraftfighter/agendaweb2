@@ -83,7 +83,7 @@ function ch1() {
                                                                 if(pl16.value == "asd") {
                                                                     if(pl17.value == "asd") {
                                                                         if(pl18.value == "asd") {
-                                                                            c1 = document.getElementById("c1").style.visibility = "visible";
+                                                                            alert("Correct");
                                                                         }
                                                                     }
                                                                 }
@@ -103,7 +103,7 @@ function ch1() {
         }
     }
     else {
-        nc1 = document.getElementById("nc1").style.visibility = "visible";
+        alert("Incorrect");
     }
 }
 
@@ -117,7 +117,7 @@ function ch2() {
                             if(rl7.value == "dusty docks") {
                                 if(rl8.value == "lazy laps") {
                                     if(rl9.value == "retail row") {
-                                        c2 = document.getElementById("c2").style.visibility = "visible";
+                                        alert("Correct");
                                     }
                                 }
                             }
@@ -128,7 +128,7 @@ function ch2() {
         }
     }
     else {
-        nc2 = document.getElementById("nc2").style.visibility = "visible";
+        alert("Incorrect");
     }
 }
 
@@ -142,7 +142,7 @@ function ch3() {
                             if(rl72.value == "sunburnt shafts") {
                                 if(rl82.value == "shady springs") {
                                     if(rl92.value == "guaco town") {
-                                        c3 = document.getElementById("c3").style.visibility = "visible";
+                                        alert("Correct");
                                     }
                                 }
                             }
@@ -153,6 +153,6 @@ function ch3() {
         }
     }
     else {
-        nc3 = document.getElementById("nc3").style.visibility = "visible";
+        alert("Incorrect");
     }
 }
