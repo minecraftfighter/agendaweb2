@@ -65,24 +65,24 @@ function signup() {
 }
 
 function ch1() {
-    if(pl1.value == "asd") {
-        if(pl2.value == "asd") {
-            if(pl3.value == "asd") {
-                if(pl4.value == "asd") {
-                    if(pl5.value == "asd") {
-                        if(pl6.value == "asd") {
-                            if(pl7.value == "asd") {
-                                if(pl8.value == "asd") {
-                                    if(pl9.value == "asd") {
-                                        if(pl10.value == "asd") {
-                                            if(pl11.value == "asd") {
-                                                if(pl12.value == "asd") {
-                                                    if(pl13.value == "asd") {
-                                                        if(pl14.value == "asd") {
-                                                            if(pl15.value == "asd") {
-                                                                if(pl16.value == "asd") {
-                                                                    if(pl17.value == "asd") {
-                                                                        if(pl18.value == "asd") {
+    if(pl1.value == "wiffy wharf") {
+        if(pl2.value == "flodded frogs") {
+            if(pl3.value == "magic mosses") {
+                if(pl4.value == "pumped power") {
+                    if(pl5.value == "demons dojo") {
+                        if(pl6.value == "twinkle terrace") {
+                            if(pl7.value == "lost lake") {
+                                if(pl8.value == "brutal boxcars") {
+                                    if(pl9.value == "nightshift forest") {
+                                        if(pl10.value == "warriors watch") {
+                                            if(pl11.value == "foxy floodgate") {
+                                                if(pl12.value == "seaport") {
+                                                    if(pl13.value == "shining span") {
+                                                        if(pl14.value == "burd") {
+                                                            if(pl15.value == "canyon crossing") {
+                                                                if(pl16.value == "masked meadows") {
+                                                                    if(pl17.value == "hopeful heights") {
+                                                                        if(pl18.value == "shoguns solitude") {
                                                                             alert("Correct");
                                                                         }
                                                                     }
