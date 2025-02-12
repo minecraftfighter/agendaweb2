@@ -39,9 +39,9 @@ rl62 = document.getElementById("rl62");
 rl72 = document.getElementById("rl72");
 rl82 = document.getElementById("rl82");
 rl92 = document.getElementById("rl92");
-prg1 = document.getElementById("");
-prg2 = document.getElementById("");
-prg3 = document.getElementById("");
+prg1 = document.getElementById("pr1");
+prg2 = document.getElementById("pr2");
+prg3 = document.getElementById("pr3");
 names = ["asd"]
 passes = ["cica", "kuka", "asd", "Hanna", "Csani"];
 l1 = false;
@@ -152,6 +152,19 @@ function ch3() {
                         }
                     }
                 }
+            }
+        }
+    }
+    else {
+        alert("Incorrect");
+    }
+}
+
+function prg() {
+    if(prg1 == true) {
+        if(prg2 == false) {
+            if(prg3 == false) {
+                alert("Correct");
             }
         }
     }
