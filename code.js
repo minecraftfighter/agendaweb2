@@ -161,9 +161,9 @@ function ch3() {
 }
 
 function prg() {
-    if(prg1 == true) {
-        if(prg2 == false) {
-            if(prg3 == false) {
+    if(prg1.value == true) {
+        if(prg2.value == false) {
+            if(prg3.value == false) {
                 alert("Correct");
             }
         }
