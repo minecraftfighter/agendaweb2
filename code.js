@@ -88,21 +88,72 @@ function ch1() {
                                                                         if(pl18.value == "shoguns solitude") {
                                                                             alert("Correct");
                                                                         }
+                                                                        else {
+                                                                            alert("Incorrect");
+                                                                        }
+                                                                    }
+                                                                    else {
+                                                                        alert("Incorrect");
                                                                     }
                                                                 }
+                                                                else {
+                                                                    alert("Incorrect");
+                                                                }
+                                                            }
+                                                            else {
+                                                                alert("Incorrect");
                                                             }
                                                         }
+                                                        else {
+                                                            alert("Incorrect");
+                                                        }
+                                                    }
+                                                    else {
+                                                        alert("Incorrect");
                                                     }
                                                 }
+                                                else {
+                                                    alert("Incorrect");
+                                                }
+                                            }
+                                            else {
+                                                alert("Incorrect");
                                             }
                                         }
+                                        else {
+                                            alert("Incorrect");
+                                        }
+                                    }
+                                    else {
+                                        alert("Incorrect");
                                     }
                                 }
-                            }                    
+                                else {
+                                    alert("Incorrect");
+                                }
+                            }
+                            else {
+                                alert("Incorrect");
+                            }
+                        }
+                        else {
+                            alert("Incorrect");
                         }
                     }
+                    else {
+                        alert("Incorrect");
+                    }
+                }
+                else {
+                    alert("Incorrect");
                 }
             }
+            else {
+                alert("Incorrect");
+            }
+        }
+        else {
+            alert("Incorrect");
         }
     }
     else {
@@ -122,12 +173,36 @@ function ch2() {
                                     if(rl9.value == "retail row") {
                                         alert("Correct");
                                     }
+                                    else {
+                                        alert("Incorrect");
+                                    }
+                                }
+                                else {
+                                    alert("Incorrect");
                                 }
                             }
+                            else {
+                                alert("Incorrect");
+                            }
+                        }
+                        else {
+                            alert("Incorrect");
                         }
                     }
+                    else {
+                        alert("Incorrect");
+                    }
+                }
+                else {
+                    alert("Incorrect");
                 }
             }
+            else {
+                alert("Incorrect");
+            }
+        }
+        else {
+            alert("Incorrect");
         }
     }
     else {
@@ -147,12 +222,35 @@ function ch3() {
                                     if(rl92.value == "guaco town") {
                                         alert("Correct");
                                     }
+                                    else {
+                                        alert("Incorrect");
+                                    }
+                                }
+                                else {
+                                    alert("Incorrect");
                                 }
                             }
+                            else {
+                                alert("Incorrect");
+                            }
                         }
+                        else {
+                            alert("Incorrect");
+                    }
+                    else {
+                        alert("Incorrect");
                     }
                 }
+                else {
+                    alert("Incorrect");
+                }
             }
+            else {
+                alert("Incorrect");
+            }
+        }
+        else {
+            alert("Incorrect");
         }
     }
     else {
